@@ -6,7 +6,7 @@ Last update: 19.10.2026
 
 ## Study overview
 Code: [![DOI](https://zenodo.org/badge/1425639067.svg)](https://doi.org/10.5281/zenodo.23477766)
-Data: [![DOI](https://zenodo.org/badge/1425639067.svg)](https://doi.org/10.5281/zenodo.23290162)
+Data: [![DOI](https://zenodo.org/badge/1425639067.svg)](https://doi.org/https://doi.org/10.5281/zenodo.23290161)
 
 This repository contains the data for a longitudinal study of yoga practice and boredom. The project combines:
 
