@@ -8,8 +8,8 @@ Last update: 19.10.2026
 
 This repository contains the data for a longitudinal study of yoga practice and boredom. The project combines:
 
-- a baseline questionnaire collected at study entry
-- repeated post-session questionnaires collected after each yoga session
+- a baseline questionnaire collected at study entry (stored under: 10.5281/zenodo.23290162)
+- repeated post-session questionnaires collected after each yoga session (stored under: 10.5281/zenodo.23290162)
 - a prepared analysis dataset used for longitudinal mediation models in Mplus
 
 The raw files are exported from the ESMira study app as semicolon-delimited CSV files.
@@ -152,7 +152,7 @@ To run the code, you need:
 ## How to run this
 # Data
 
-The data files are hosted on the project's Zenodo record and the code is in the
+The data files are hosted on the project's Zenodo record (10.5281/zenodo.23290162) and the code is in the
 GitHub repository. To regenerate the prepared analysis dataset, download these
 two raw questionnaire files and place them in `Data/raw/` in the repository
 root:
